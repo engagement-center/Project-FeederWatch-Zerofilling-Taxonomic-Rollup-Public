@@ -1,2 +1,5 @@
-# zero-filling-taxonomic-roll-up
-A public repository containing documentation for users working with Project FeederWatch data to zero-fill and perform a taxonomic roll-up.
+# Project FeederWatch: Zero-filling and taxonomic roll-up
+
+This repository contains the html documentation, "Project FeederWatch: Zero-filling and taxonomic roll-up," that 
+enables users working with Project FeederWatch to perform key data manipulations.
+
