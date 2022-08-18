@@ -2,7 +2,7 @@
 
 This is a public repository with documentation that enables users working with Project FeederWatch data to perform two key data manipulations that are relevant to most valid uses of the data: zero-filling and taxonomic roll-up.  
 
-We have provided multiple versions of the documentation (R Markdown file, HTML, PDF), and the sample checklist data needed to run the example code in the documentation in this repository.
+We have provided multiple versions of the documentation (R Markdown file, HTML, PDF), and the sample checklist data needed to run the example code in the documentation in this repository. The versions can be accessed from the docs folder, and the link for the html documentation is: [https://engagement-center.github.io/Project-FeederWatch-Zerofilling-Taxonomic-Rollup-Public/](https://engagement-center.github.io/Project-FeederWatch-Zerofilling-Taxonomic-Rollup-Public/)
 
 In this documentation, we reference a “species translation table,” which isn’t needed to run the example code, but is important for determining which species code one needs. This table can be found on the [Project FeederWatch website](https://feederwatch.org/explore/raw-dataset-requests/).
 
