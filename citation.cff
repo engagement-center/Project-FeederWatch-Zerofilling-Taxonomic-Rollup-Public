@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Project FeederWatch: Zero-filling and taxonomic roll-up'
+message: >-
+  If you use the R code in this documentation, please give
+  credit to the author, Dr. Wesley Hochachka, who is a
+  Senior Research Associate at the Cornell Lab of
+  Ornithology. 
+type: software
+authors:
+  - given-names: Hochachka
+    family-names: Wesley
+    orcid: 'https://orcid.org/0000-0002-0595-7827'
+    affiliation: Cornell Lab of Ornithology
+repository-code: >-
+  https://github.com/engagement-center/Project-FeederWatch-Zerofilling-Taxonomic-Rollup-Public
