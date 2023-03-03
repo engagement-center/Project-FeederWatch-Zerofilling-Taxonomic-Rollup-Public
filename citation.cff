@@ -8,11 +8,11 @@ message: >-
   credit to the author, Dr. Wesley Hochachka, who is a
   Senior Research Associate at the Cornell Lab of
   Ornithology. 
-type: R Code
 authors:
   - given-names: Hochachka
     family-names: Wesley
     orcid: 'https://orcid.org/0000-0002-0595-7827'
     affiliation: Cornell Lab of Ornithology
+version: 1.0.0
 repository-code: >-
   https://github.com/engagement-center/Project-FeederWatch-Zerofilling-Taxonomic-Rollup-Public
