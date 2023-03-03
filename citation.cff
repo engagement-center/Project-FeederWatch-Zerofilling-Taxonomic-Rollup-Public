@@ -8,7 +8,7 @@ message: >-
   credit to the author, Dr. Wesley Hochachka, who is a
   Senior Research Associate at the Cornell Lab of
   Ornithology. 
-type: software
+type: R Code
 authors:
   - given-names: Hochachka
     family-names: Wesley
